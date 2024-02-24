@@ -36,6 +36,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://FlagMotori.github.io/writeups/crypto/writeups/SnappCTF/Blex/Blex/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/crypto/writeups/SnappCTF/Cryptos/Cryptos/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://FlagMotori.github.io/writeups/crypto/writeups/TCP1PCTF/Final_Consensus/</loc>
          <lastmod>2024-02-24</lastmod>
          <changefreq>daily</changefreq>
@@ -52,6 +62,11 @@
     </url>
     <url>
          <loc>https://FlagMotori.github.io/writeups/introduction/CTF-Introduction/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/introduction/CTF-in-Iran/</loc>
          <lastmod>2024-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -97,6 +112,16 @@
     </url>
     <url>
          <loc>https://FlagMotori.github.io/writeups/web/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/web/writeups/SnappCTF/snappctf/</loc>
+         <lastmod>2024-02-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/web/writeups/mapnaCTF/flag-holding/</loc>
          <lastmod>2024-02-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
