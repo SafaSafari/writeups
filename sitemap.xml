@@ -76,36 +76,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://FlagMotori.github.io/writeups/forensic/writeups/BSidesSF/doctor/</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://FlagMotori.github.io/writeups/forensic/writeups/BSidesSF/javai/</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://FlagMotori.github.io/writeups/forensic/writeups/BSidesSF/redacted/</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://FlagMotori.github.io/writeups/forensic/writeups/BSidesSF/sgai/</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://FlagMotori.github.io/writeups/forensic/writeups/BSidesSF/undelete/</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://FlagMotori.github.io/writeups/forensic/writeups/BSidesSF/ztxt/</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://FlagMotori.github.io/writeups/forensic/writeups/SnappCTF/false-sight/</loc>
          <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
@@ -247,16 +217,6 @@
     </url>
     <url>
          <loc>https://FlagMotori.github.io/writeups/reverse/</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://FlagMotori.github.io/writeups/reverse/writeups/BSidesSF/shinji/</loc>
-         <lastmod>2024-05-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://FlagMotori.github.io/writeups/reverse/writeups/BSidesSF/whishing-well/</loc>
          <lastmod>2024-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
