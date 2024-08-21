@@ -141,6 +141,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://FlagMotori.github.io/writeups/forensic/Tools/</loc>
+         <lastmod>2024-08-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://FlagMotori.github.io/writeups/forensic/writeups/2024/BSidesSF/doctor/</loc>
          <lastmod>2024-08-21</lastmod>
          <changefreq>daily</changefreq>
@@ -182,6 +187,11 @@
     </url>
     <url>
          <loc>https://FlagMotori.github.io/writeups/forensic/writeups/2024/SnappCTF/snapp-report/</loc>
+         <lastmod>2024-08-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://FlagMotori.github.io/writeups/forensic/writeups/NahamCon/taking-up-residence/</loc>
          <lastmod>2024-08-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
