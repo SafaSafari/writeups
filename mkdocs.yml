@@ -270,6 +270,8 @@ nav:
 
     - جرم‌شناسی:
         - forensic/index.md
+        - معرفی ابزار:
+            - forensic/Tools/index.md
         - رایتاپ‌های ۲۰۲۴:
             - ImaginaryCTF:         # 19 July 2024
                 - forensic/writeups/2024/ImaginaryCTF/elves.md
@@ -283,8 +285,8 @@ nav:
             - SnappCTF:             # 22 Feb. 2024
                 - forensic/writeups/2024/SnappCTF/snapp-report.md
                 - forensic/writeups/2024/SnappCTF/false-sight.md
-
-
+            - NahamCon:
+                - forensic/writeups/NahamCon/taking-up-residence.md
 
     - PWN:
         - pwn/index.md
